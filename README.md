@@ -1,8 +1,8 @@
 Pagina Web de Bienes Raíces   https://youthful-ardinghelli-436c5d.netlify.app/
 
  Se uso : React con Gatsby para el Cliente; 
-          ; El CMS esta con Strapi  con la base de datos local mySQL
-          ; GraphQL con Gatsby y Stapi
+          ;  El CMS esta con Strapi  con la base de datos local mySQL
+          ;  GraphQL con Gatsby y Strapi
 
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
